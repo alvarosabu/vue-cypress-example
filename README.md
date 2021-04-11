@@ -1,4 +1,8 @@
-# vue-cypress-example
+![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1564929632/as-readme-banner_tqdgrx.png)
+
+# Vue Cypress Example ⚡
+
+> Demo for Youtube video on Testing Vue Components with the new Cypress Test Runner [here](https://youtu.be/lfDjIGIAcKs)
 
 ## Project setup
 
